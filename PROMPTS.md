@@ -530,3 +530,9 @@ frontend/src/pages/Admin/AdminProductForm.tsx
 
 (Admin Route. Form (Create/Edit) for a product. Can be used for both creating a new product and editing an existing one by checking for an id in the URL params.)
 ```
+
+# PROMPT 3 :
+
+```
+add the system architecture to the README.md
+```
